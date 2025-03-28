@@ -20,13 +20,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BachaniS&theme=radical"/>
 </p>
 
----
-
-### 🏅 Achievements & Certifications
-
-- ![PL-300 Certified](https://img.shields.io/badge/Microsoft%20PL--300-Certified-blue)
-- 🏅 8 Band in IELTS 🎯
-- 🎖️ Successfully bagged **2 PoCs** single-handedly on Data Viz projects.
 
 ---
 
@@ -36,13 +29,13 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-007ACC?style=flat-square&logo=microsoft&logoColor=white)
+
 
 ---
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somesh-bachani/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/somesh-bachani/](https://www.linkedin.com/in/somesh-bachani-803233105/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BachaniS)
 
 ---
