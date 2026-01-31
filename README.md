@@ -16,9 +16,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BachaniS&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BachaniS&theme=radical" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BachaniS&show_icons=true&theme=radical" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=BachaniS&theme=radical" />
 </p>
+
 
 
 
